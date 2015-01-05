@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48193B9A-9B0A-451C-B865-87A09D49999C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>laundr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E135FC51C211497D88A6EAFF0A3E816F870FC024</key>
+		<string>https://github.com/tevaughn/laundr.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>laundr/laundr.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E135FC51C211497D88A6EAFF0A3E816F870FC024</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tevaughn/laundr.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E135FC51C211497D88A6EAFF0A3E816F870FC024</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E135FC51C211497D88A6EAFF0A3E816F870FC024</string>
+			<key>IDESourceControlWCCName</key>
+			<string>laundr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
